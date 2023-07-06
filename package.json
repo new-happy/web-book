@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "deploy":"gh-pages -d _book"
+    "deploy":"gh-pages -d _book",
+    "build": "gitbook build",
+    "serve": "gitbook serve"
   },
   "repository": {
     "type": "git",

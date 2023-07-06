@@ -42,7 +42,7 @@
   - [Cookie](./http/11-cookie.md)
   - [Session](./http/12-session.md)
   - [Session 应用实例：登录](./http/13-session-example.md)
-- [第五章:Linux系统介绍](./linux.index)
+- [第五章:Linux系统介绍](./linux/index.md)
   - [进入 Linux 命令行的黑色世界](./linux/2-hello-linux.md)
   - [文件系统结构](./linux/3-file-sys.md)
   - [文件操作](./linux/4-file-man.md)
@@ -52,6 +52,7 @@
   - [上传代码到 Github.com](./linux/8-push.md)
   - [安装 nodejs](./linux/9-install-node.md)
   - [初试 webpack](./linux/10-webpack.md)
-
-
+- [第六章:angular](./angular/index.md)
+  - [初试 安装](./angular/angular01.md)
+  - [angular使用antd](./angular/angular02.md)
   
