@@ -55,4 +55,5 @@
 - [第六章:angular](./angular/index.md)
   - [初试 安装](./angular/angular01.md)
   - [angular使用antd](./angular/angular02.md)
+  - [typescript接口使用](./angular/angular03.md)
   
